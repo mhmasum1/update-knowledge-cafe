@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/Kzrvcqc2/high-angle-plant-notebook-frame.jpg",
+        "title": "The Rise of Eco-Friendly Tech",
+        "author": "Sophia Khan",
+        "author_img": "https://i.ibb.co/B2p9KYRW/satuvision-digital-agency-6-Uoi1w-VES3-Q-unsplash.jpg",
+        "posted_date": "2025-05-11",
+        "reading_time": 5,
+        "hashtags": [
+            "#technology",
+            "#green",
+            "#sustainability"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/9HDGrH7d/upset-gloomy-uneasy-cute-pouting-redhead-girl-frowning-dont-want-speak-you-hiding-face.jpg",
+        "title": "Why You Should Learn React in 2025",
+        "author": "Liam Parker",
+        "author_img": "https://i.ibb.co/6c9QbXTs/medium-shot-woman-writing-her-journal.jpg",
+        "posted_date": "2025-05-12",
+        "reading_time": 7,
+        "hashtags": [
+            "#react",
+            "#frontend",
+            "#webdevelopment"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/TxLxFDPb/flat-lay-arrangement-desk-elements-with-copy-space.jpg",
+        "title": "A Beginner’s Guide to Cloud Computing",
+        "author": "Emily Zhang",
+        "author_img": "https://i.ibb.co/FM0bM2b/woman-reading-book-table.jpg",
+        "posted_date": "2025-05-13",
+        "reading_time": 6,
+        "hashtags": [
+            "#cloud",
+            "#aws",
+            "#beginner"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/Fb0G8GNc/top-view-abstract-innovation-composition.jpg",
+        "title": "Top 5 Programming Languages to Learn",
+        "author": "David Lee",
+        "author_img": "https://i.ibb.co/gMm8tNPz/young-adult-businessman-studying-library-holding-book-generated-by-artificial-intelligence.jpg",
+        "posted_date": "2025-05-14",
+        "reading_time": 8,
+        "hashtags": [
+            "#programming",
+            "#languages",
+            "#career"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/svwhZzcn/concerned-tensed-attractive-redhead-female-student-cant-write-down-everything-from-blackboard-after.jpg",
+        "title": "Understanding the Basics of Cybersecurity",
+        "author": "Aria Rahman",
+        "author_img": "https://i.ibb.co/27qS2Bvf/caucasian-woman-sitting-wooden-bench-with-books.jpg",
+        "posted_date": "2025-05-15",
+        "reading_time": 9,
+        "hashtags": [
+            "#cybersecurity",
+            "#privacy",
+            "#infosec"
+        ]
+    }
+]
